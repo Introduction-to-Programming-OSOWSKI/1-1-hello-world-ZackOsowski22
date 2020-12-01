@@ -7,7 +7,7 @@ public class App {
     }
 
     public static String helloWorld(){
-        return "Hello World!";
+        return "Hello Wold!";
     }
 
 }
